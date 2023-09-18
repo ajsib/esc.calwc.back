@@ -24,7 +24,7 @@ sudo systemctl start docker
 ### Step 2: Clone repository
 
 ```bash
-git clone <urlTBD>
+git clone https://github.com/ajsib/esc.calwc.back
 cd <repository_directory>
 ```
 
